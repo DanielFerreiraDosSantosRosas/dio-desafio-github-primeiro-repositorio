@@ -1,0 +1,19 @@
+O que é um sistema distribuído?
+Um sistema que possui recursos de hardware de si mesmo em diferentes locais.
+Qual a diferença do seu ambiente de desenvolvimento e do servidor?
+eu ambiente de desenvolvimento é local e servidor remoto.
+O que o comando Git init faz?
+Inicializa um recurso git na pasta em questão.
+O que o comando git clone faz? 
+Faz um clone do governo remoto em seu local.
+Aprendemos que alguns comandos podem variar de acordo com o sistema operacional 
+utilizado. Com isso em mente, o que o comando dir, no Windows e ls, no Linux fazem?
+Retorna uma lista com o conteúdo contido específico.
+Quando você tentará empurrar para o GitHub e o estado mais atual do commit não git irá :
+Pedir para você fazer um pull e depois um push.
+O que acontece quando você gera commits no seu uso local com email e nickname diferentes no GitHub?
+Os commits aparecem com email e nickname diferentes no GitHub.
+O que o GIT é?
+Um sistema de versionamento de código distribuído.
+O que é um arquivo do tipo Markdown?
+Um arquivo que usa caracteres especiais como # para formatar o texto.
